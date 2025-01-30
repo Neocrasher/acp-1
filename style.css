@@ -1,0 +1,34 @@
+body{
+    background-color:#faf0e6;
+}
+.top_thing{
+    display: flex;
+    align-items: center;
+    background:linear-gradient(to right,#e7563c, #f2907e);
+    padding: 15px 20px;
+    position: relative;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom:20px;
+}
+
+.yo a {
+    color: #fff;
+    text-decoration: underline;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.e {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.e li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+.e li a:hover {
+    color: #ffc5b2;
+}

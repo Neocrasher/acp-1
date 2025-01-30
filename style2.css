@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: #e7563c;
+}
+
+table {
+    width: 100%;
+    margin: 20px 0;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border:2px solid black;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #e7563c;
+    color: white;
+}
+
+tr:hover {
+    background-color: #f2907e;
+}
+.category {
+    background-color: #f2907e;
+    font-weight: bold;
+}
+body{
+    background-color:#faf0e6;
+}
